@@ -1,0 +1,8 @@
+{
+    "SiteUFRN": "https://cooperacao.info.ufrn.br/sigaa/verTelaLogin.do",
+    "usuario": "123",
+    "senha": "123",
+    "inputNome": "user.login",
+    "inputSenha": "user.senha",
+    "xpathBotaoEntrar": "//*[@id='conteudo']/div[4]/form/table/tfoot/tr/td/input"
+}
