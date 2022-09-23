@@ -1,8 +1,7 @@
 {
-    "SiteUFRN": "https://cooperacao.info.ufrn.br/sigaa/verTelaLogin.do",
-    "usuario": "123",
-    "senha": "123",
-    "inputNome": "user.login",
-    "inputSenha": "user.senha",
-    "xpathBotaoEntrar": "//*[@id='conteudo']/div[4]/form/table/tfoot/tr/td/input"
+    "SiteCoperacao": "https://preproducao-esig.ufca.edu.br/sigaa/public/home.jsf",
+    "atualizar_dados": "Atualizar Dados Pessoais",
+    "MatricularDisc": "formulario:matriculaDiscente",
+    "BotaoBuscar": "formulario:buscar",
+    "botaoSelecionar": "form:selecionarDiscente",
 }
